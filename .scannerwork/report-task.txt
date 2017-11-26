@@ -1,0 +1,6 @@
+projectKey=neptrio:zahlenjungle2000
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/neptrio:zahlenjungle2000
+ceTaskId=AV_ey09_Yp_gSIlmmFcA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV_ey09_Yp_gSIlmmFcA
