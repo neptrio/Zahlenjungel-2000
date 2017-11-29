@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.text.MessageFormat;
 
+/**
+ * Puts the many individual parts together
+ */
 public class GameLogic implements IGameLogic {
 
     private INumberGenerator numberGenerator;
