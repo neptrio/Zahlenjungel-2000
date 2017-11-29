@@ -19,6 +19,9 @@ public class GameLogic implements IGameLogic {
         this.userInputReader = new BufferedReader(new InputStreamReader(System.in));
     }
 
+    /**
+     * Starts the game.
+     */
     public void startGame(){
         ConsoleWriter.writeToConsole(textGenerator.getStatementText(Text.GREETING));
         checkUserInput(askForNumberInput());

@@ -6,9 +6,9 @@ public class ConsoleWriter {
 
     /**
      * Prints a message in the console.
-     * @param msg
+     * @param message you want to print in the console
      */
-    public static void writeToConsole(String msg) {
-        System.out.println(msg);
+    public static void writeToConsole(String message) {
+        System.out.println(message);
     }
 }
