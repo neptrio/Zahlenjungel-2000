@@ -1,5 +1,8 @@
 package com.company;
 
+/**
+ * Class ConsoleWriter wraps the System.out.println
+ */
 public class ConsoleWriter {
 
     private ConsoleWriter(){}

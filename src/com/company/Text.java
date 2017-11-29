@@ -1,5 +1,8 @@
 package com.company;
 
+/**
+ * Holds all possible system texts
+ */
 public enum Text {
     UNKNOWN_FAILURE,
     WRONG_INPUT_TYPE,

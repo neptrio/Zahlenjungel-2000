@@ -1,7 +1,8 @@
-
-
 package com.company;
 
+/**
+ * All system texts in German language
+ */
 public class StringsDE {
 
     private StringsDE(){}
